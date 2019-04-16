@@ -22,6 +22,8 @@ public class MainPresenter {
 
     public MainPresenter(MainView mainview, Context context) {
         this.view = mainview;
+        this.context=context;
+
     }
 
     //get data from Api and pass to View
