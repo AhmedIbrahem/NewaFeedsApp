@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NewaFeedsApp</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="explore">Explore</string>
+    <string name="live_chat">Live Chat</string>
+    <string name="gallery">Gallery</string>
+    <string name="wish_list">Wish List</string>
+    <string name="e_magazine">E-Magazine</string>
+    <string name="notfound">404 Not found</string>
+    <string name="server_broken">500 Server broken</string>
+    <string name="unknown">Unkwon Error</string>
+    <string name="no_result">"No Resualt</string>
+    <string name="plz_again">Please Try Again !</string>
+    <string name="network_fail">"Opps Network Falier…</string>
+
+</resources>
